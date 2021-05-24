@@ -1,0 +1,14 @@
+## Piece.py
+    - King class: check if valid for castling
+    - Rook class: check if valid for castling
+    - Account for pawn diagonal captures
+    - Account for pawn enpasse  move
+## Square.py
+    - Adj Square in Direction function
+    - Square in Distance and Direction function
+
+
+## AI
+    - Possibly define a 'value' variable for each piece to help define cost function
+
+#Test literally every method for Board, Move, Piece, Square
